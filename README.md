@@ -85,7 +85,7 @@ git clone [https://github.com/](https://github.com/)<your-username>/secops-engin
 cd secops-engineering-lab
 
 # Run the Python SSH authentication anomaly parser against a sample log
-python3 python-automation/auth_log_analyzer.py --logfile sample_logs/auth.log --threshold 10
+python3 python-automation/auth_log_analyzer.py --logfile python-automation/sample_auth.log --threshold 5
 ```
 
 ---
