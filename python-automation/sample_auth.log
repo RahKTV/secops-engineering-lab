@@ -1,0 +1,9 @@
+Oct 29 21:12:01 secops-node01 sshd[14201]: Accepted publickey for rahul from 10.0.10.5 port 54322 ssh2
+Oct 29 21:13:10 secops-node01 sshd[14510]: Failed password for invalid user admin from 198.51.100.42 port 39101 ssh2
+Oct 29 21:13:12 secops-node01 sshd[14512]: Failed password for root from 198.51.100.42 port 39104 ssh2
+Oct 29 21:13:15 secops-node01 sshd[14515]: Failed password for root from 198.51.100.42 port 39109 ssh2
+Oct 29 21:13:18 secops-node01 sshd[14518]: Failed password for ubuntu from 198.51.100.42 port 39115 ssh2
+Oct 29 21:13:20 secops-node01 sshd[14521]: Failed password for invalid user postgres from 198.51.100.42 port 39120 ssh2
+Oct 29 21:13:22 secops-node01 sshd[14525]: Failed password for root from 198.51.100.42 port 39128 ssh2
+Oct 29 21:13:45 secops-node01 sshd[14601]: Failed password for invalid user test from 203.0.113.88 port 44120 ssh2
+Oct 29 21:14:00 secops-node01 sshd[14650]: Accepted publickey for svc_backup from 10.0.10.20 port 51002 ssh2
